@@ -41,13 +41,13 @@ A aplicação permite pesquisar personagens, visualizar cards com informações 
 
 
 ### Página inicial
-![Página Inicial](src/images/paginainicial.jpg)
+![Página Inicial](images/paginainicial.jpg)
 
 ### Detalhes do herói
-![Detalhes do Herói](src/images/detalhes_heroi.jpg)
+![Detalhes do Herói](images/detalhes_heroi.jpg)
 
 ### Catálogo de heróis
-![Catálogo](src/images/catalogo.jpg)
+![Catálogo](images/catalogo.jpg)
 
 ### Sobre o projeto
-![Sobre](src/images/sobre.jpg)
+![Sobre](images/sobre.jpg)
