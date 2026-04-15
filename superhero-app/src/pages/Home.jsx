@@ -1,8 +1,10 @@
-import { useEffect, useState } from 'react'
+import { useContext, useEffect, useState } from 'react'
 import { getHeroes } from '../api'
 import HeroCard from '../components/HeroCard'
+import { AuthContext } from '../AuthContext'
 
 export default function Home() {
+  const { user } = useContext(AuthContext)
   const [heroes, setHeroes] = useState([])
   const [filteredHeroes, setFilteredHeroes] = useState([])
   const [search, setSearch] = useState('')
@@ -45,6 +47,7 @@ export default function Home() {
 
   return (
     <div className="container">
+      {user && <p className="welcome">Bem-vindo, {user.name}!</p>}
       <h1>Catálogo de Super-Heróis</h1>
 
       <input

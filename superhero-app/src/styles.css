@@ -148,6 +148,68 @@ h1 {
   color: #60a5fa;
 }
 
+.navbar-user {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.navbar-user span {
+  color: #cbd5e1;
+  font-size: 0.95rem;
+}
+
+.logout-btn {
+  border: 1px solid #60a5fa;
+  background: transparent;
+  color: #60a5fa;
+  border-radius: 10px;
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.logout-btn:hover {
+  background: #1d4ed8;
+  color: white;
+  border-color: transparent;
+}
+
+.login-page {
+  max-width: 480px;
+  margin: 0 auto;
+  padding-top: 40px;
+  text-align: center;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-top: 24px;
+}
+
+.login-form input {
+  padding: 14px;
+  border-radius: 10px;
+  border: none;
+  font-size: 16px;
+  outline: none;
+}
+
+.form-error {
+  color: #fb7185;
+  font-size: 0.95rem;
+  text-align: left;
+}
+
+.welcome {
+  text-align: center;
+  margin-bottom: 16px;
+  font-size: 1.05rem;
+  color: #cbd5e1;
+}
+
 .about-page {
   max-width: 850px;
   line-height: 1.8;
