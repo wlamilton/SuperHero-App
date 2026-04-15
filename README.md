@@ -41,13 +41,13 @@ A aplicação permite pesquisar personagens, visualizar cards com informações 
 
 
 ### Página inicial
-![Página Inicial](images/paginainicial.jpg)
+![Página Inicial](superhero-app/images/paginainicial.jpg)
 
 ### Detalhes do herói
-![Detalhes do Herói](images/detalhes_heroi.jpg)
+![Detalhes do Herói](superhero-app/images/detalhes_heroi.jpg)
 
 ### Catálogo de heróis
-![Catálogo](images/catalogo.jpg)
+![Catálogo](superhero-app/images/catalogo.jpg)
 
 ### Sobre o projeto
-![Sobre](images/sobre.jpg)
+![Sobre](superhero-app/images/sobre.jpg)
