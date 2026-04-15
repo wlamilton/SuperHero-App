@@ -35,16 +35,16 @@ A aplicação permite pesquisar personagens, visualizar cards com informações 
 - `/sobre` → Página sobre o projeto
 
 ## Link online
-superhero-app1.netlify.app
+[superhero-app1.netlify.app](https://superhero-app1.netlify.app/)
 
 ## Autor
 
 
 ### Página inicial
-![Página Inicial](images/pagianicial.jpg)
+![Página Inicial](images/paginainicial.jpg)
 
 ### Detalhes do herói
-![Detalhes do Herói](images/detalhes_hero.jpg)
+![Detalhes do Herói](images/detalhes_heroi.jpg)
 
 ### Catálogo de heróis
 ![Catálogo](images/catalogo.jpg)
