@@ -41,10 +41,10 @@ A aplicação permite pesquisar personagens, visualizar cards com informações 
 
 
 ### Página inicial
-![Página Inicial](src/images/pagianicial.jpg)
+![Página Inicial](src/images/paginainicial.jpg)
 
 ### Detalhes do herói
-![Detalhes do Herói](src/images/detalhes_hero.jpg)
+![Detalhes do Herói](src/images/detalhes_heroi.jpg)
 
 ### Catálogo de heróis
 ![Catálogo](src/images/catalogo.jpg)
