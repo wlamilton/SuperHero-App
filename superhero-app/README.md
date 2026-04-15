@@ -41,13 +41,13 @@ superhero-app1.netlify.app
 
 
 ### Página inicial
-![Página Inicial](imagens/pagianicial.jpg)
+![Página Inicial](images/pagianicial.jpg)
 
 ### Detalhes do herói
-![Detalhes do Herói](imagens/detalhes_hero.jpg)
+![Detalhes do Herói](images/detalhes_hero.jpg)
 
 ### Catálogo de heróis
-![Catálogo](imagens/catalogo.jpg)
+![Catálogo](images/catalogo.jpg)
 
 ### Sobre o projeto
-![Sobre](imagens/sobre.jpg)
+![Sobre](images/sobre.jpg)
