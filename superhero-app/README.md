@@ -1,16 +1,53 @@
-# React + Vite
+# Catálogo de Super-Heróis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Sobre o projeto
+O Catálogo de Super-Heróis é uma aplicação web desenvolvida em React com o objetivo de consumir e exibir dados de uma API externa de super-heróis.
 
-Currently, two official plugins are available:
+A aplicação permite pesquisar personagens, visualizar cards com informações básicas e acessar uma página de detalhes por meio de rotas dinâmicas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Funcionalidades
+- Listagem de super-heróis
+- Pesquisa por nome
+- Página de detalhes de cada herói
+- Rotas dinâmicas com React Router
+- Página sobre o projeto
 
-## React Compiler
+## Tecnologias utilizadas
+- React
+- Vite
+- React Router DOM
+- CSS
+- API pública de Super-Heróis (Akabab Superhero API)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## API utilizada
+- https://akabab.github.io/superhero-api/api/all.json
 
-## Expanding the ESLint configuration
+## Como executar o projeto
+1. Abra o terminal na pasta do projeto
+2. Instale as dependências:
+   npm install
+3. Execute o projeto:
+   npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Estrutura de páginas
+- `/` → Página inicial com listagem de heróis
+- `/hero/:id` → Página de detalhes do herói
+- `/sobre` → Página sobre o projeto
+
+## Link online
+superhero-app1.netlify.app
+
+## Autor
+
+
+### Página inicial
+![Página Inicial](imagens/pagianicial.jpg)
+
+### Detalhes do herói
+![Detalhes do Herói](imagens/detalhes_hero.jpg)
+
+### Catálogo de heróis
+![Catálogo](imagens/catalogo.jpg)
+
+### Sobre o projeto
+![Sobre](imagens/sobre.jpg)
