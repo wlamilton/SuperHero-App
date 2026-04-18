@@ -38,16 +38,24 @@ A aplicação permite pesquisar personagens, visualizar cards com informações 
 [superhero-app1.netlify.app](https://superhero-app1.netlify.app/)
 
 ## Autor
+**Wlamilton dos Reis Fidelis Neto** é o desenvolvedor deste projeto acadêmico, responsável pela criação da interface, integração com API externa, implementação das rotas dinâmicas e publicação da aplicação online.
 
+## Arquitetura da Aplicação
+A aplicação segue uma arquitetura simples baseada em front-end com consumo de API externa.  
+O usuário interage com a interface desenvolvida em React, navegando entre as páginas da aplicação e acessando os detalhes dos heróis por meio de rotas dinâmicas.  
+Os dados são obtidos da API pública Akabab Superhero API, que fornece informações como nome, imagem, biografia e atributos dos personagens.
+
+### Desenho da arquitetura
+![Arquitetura da Aplicação](superhero-app/images/arquinst.jpg)
 
 ### Página inicial
-![Página Inicial](images/paginainicial.jpg)
+![Página Inicial](superhero-app/images/paginainicial.jpg)
 
 ### Detalhes do herói
-![Detalhes do Herói](images/detalhes_heroi.jpg)
+![Detalhes do Herói](superhero-app/images/detalhes_heroi.jpg)
 
-### Catálogo de heróis
-![Catálogo](images/catalogo.jpg)
+### Catálogo
+![Catálogo](superhero-app/images/catalogo.jpg)
 
 ### Sobre o projeto
-![Sobre](images/sobre.jpg)
+![Sobre](superhero-app/images/sobre.jpg)
